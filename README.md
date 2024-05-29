@@ -28,6 +28,10 @@
     2. [APIJSON](https://github.com/Tencent/APIJSON) ：无软件，jar包导入。腾讯开源的接口工具，可以生成后端大部分接口。无需后端写过多接口。前端可以定制数据格式。
 
     3. [p3c ](https://github.com/alibaba/p3c) ：插件。根据编码规范文档来提示代码编写规范
+    
+    4. [shiro](https://github.com/apache/shiro) : springboot的安全权限控制框架，基于springSecurity
+    
+    5. [sureness](https://github.com/dromara/sureness): 基于RBAC的权限框架，性能、使用难度小于shiro和springSecurity
   - #### 其他
     1. [v2rayN](https://github.com/2dust/v2rayN) ：梯子工具
     2. [frp](https://github.com/fatedier/frp) ：简单的内网穿透工具
@@ -36,9 +40,13 @@
     5. [you-get](https://github.com/soimort/you-get) ： 无软件，命令行执行。爬虫工具，视频适配大部分平台，图片、音频等不是很多。语言为 <font title="blue">python</font> 
     6. [carbon](https://github.com/carbon-app/carbon) ：无软件，可用插件。将代码生成图片，美化代码
     7. [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume?tab=readme-ov-file) ：无软件。简历生成工具
-    8. [fusuma](https://github.com/hiroppy/fusuma) ：markdown文件生成ppt。
-    9. [typora-dyzj-theme](https://github.com/muggledy/typora-dyzj-theme) ：markdown主题
-
+    8. [fusuma](https://github.com/hiroppy/fusuma) ：markdown文件生成网页ppt。
+    9. [nodeppt](https://github.com/ksky521/nodeppt) : 与fusuma相似，通过md文件快速创建网页ppt
+    10. [typora-dyzj-theme](https://github.com/muggledy/typora-dyzj-theme)：markdown主题
+    11. [Cap](https://github.com/CapSoftware/Cap?tab=readme-ov-file) : 可以将pc端的窗口投屏到web上，让其他设备通过web查看窗口
+    12. [Pake](https://github.com/tw93/Pake) : 将网页打包成应用程序
+    13. [ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) : 插件汇总中文版
+  
    
 
 
