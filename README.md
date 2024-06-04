@@ -46,8 +46,7 @@
     11. [Cap](https://github.com/CapSoftware/Cap?tab=readme-ov-file) : 可以将pc端的窗口投屏到web上，让其他设备通过web查看窗口
     12. [Pake](https://github.com/tw93/Pake) : 将网页打包成应用程序
     13. [ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) : 插件汇总中文版
-      
-14.[massgravel](https://github.com/massgravel/Microsoft-Activation-Scripts): win激活工具
+         14.[massgravel](https://github.com/massgravel/Microsoft-Activation-Scripts): win激活工具
    
 
 
