@@ -23,15 +23,15 @@
 
   - #### 项目工具
 
-    1. [layui](https://github.com/layui/layui) ：npm或源码导入。原生前端工具。
-
-    2. [APIJSON](https://github.com/Tencent/APIJSON) ：无软件，jar包导入。腾讯开源的接口工具，可以生成后端大部分接口。无需后端写过多接口。前端可以定制数据格式。
-
-    3. [p3c ](https://github.com/alibaba/p3c) ：插件。根据编码规范文档来提示代码编写规范
-    
-    4. [shiro](https://github.com/apache/shiro) : springboot的安全权限控制框架，基于springSecurity
-    
-    5. [sureness](https://github.com/dromara/sureness): 基于RBAC的权限框架，性能、使用难度小于shiro和springSecurity
+    - 前端工具：
+      1. [layui](https://github.com/layui/layui) ：npm或源码导入。原生前端工具。
+      2. [chartjs](https://chatgpt.com/c/d4d2b618-850c-47c8-af99-1121decfe307) : 原生前端图表工具
+    - 后端工具：
+      1. [APIJSON](https://github.com/Tencent/APIJSON) ：无软件，jar包导入。腾讯开源的接口工具，可以生成后端大部分接口。无需后端写过多接口。前端可以定制数据格式。
+      2. [p3c ](https://github.com/alibaba/p3c) ：插件。根据编码规范文档来提示代码编写规范
+      3. [shiro](https://github.com/apache/shiro) : springboot的安全权限控制框架，基于springSecurity
+      4. [sureness](https://github.com/dromara/sureness): 基于RBAC的权限框架，性能、使用难度小于shiro和springSecurity
+  
   - #### 其他
     1. [v2rayN](https://github.com/2dust/v2rayN) ：梯子工具
     2. [frp](https://github.com/fatedier/frp) ：简单的内网穿透工具
@@ -45,10 +45,10 @@
     10. [typora-dyzj-theme](https://github.com/muggledy/typora-dyzj-theme)：markdown主题
     11. [Cap](https://github.com/CapSoftware/Cap?tab=readme-ov-file) : 可以将pc端的窗口投屏到web上，让其他设备通过web查看窗口
     12. [Pake](https://github.com/tw93/Pake) : 将网页打包成应用程序
-    13. [ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) : 插件汇总中文14.[massgravel](https://github.com/massgravel/Microsoft-Activation-Scripts): win激活工具
-   
-       15.[Storling](https://github.com/Stirling-Tools/Stirling-PDF)：pdf处理工具，如pdf转图片等
-   
+    13. [ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) : 插件汇总中文
+    14. [massgravel](https://github.com/massgravel/Microsoft-Activation-Scripts): win激活工具
+    15. [Storling](https://github.com/Stirling-Tools/Stirling-PDF)：pdf处理工具，如pdf转图片等
+  
 
 
 
