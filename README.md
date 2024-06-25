@@ -25,7 +25,10 @@
 
     - 前端工具：
       1. [layui](https://github.com/layui/layui) ：npm或源码导入。原生前端工具。
-      2. [chartjs](https://chatgpt.com/c/d4d2b618-850c-47c8-af99-1121decfe307) : 原生前端图表工具
+      2. [bootstrp](https://github.com/twbs/bootstrap) : 与layui相似。Twitter开源。中文文档：https://www.bootcss.com
+      3. [Materialize](https://github.com/materializecss/materialize?tab=readme-ov-file) : 与layui相似。中文文档：https://www.materializecss.cn
+      4. [element](https://github.com/ElemeFE/element) : 基于vue的前端框架。
+      5. [chartjs](https://chatgpt.com/c/d4d2b618-850c-47c8-af99-1121decfe307) : 原生前端图表工具
     - 后端工具：
       1. [APIJSON](https://github.com/Tencent/APIJSON) ：无软件，jar包导入。腾讯开源的接口工具，可以生成后端大部分接口。无需后端写过多接口。前端可以定制数据格式。
       2. [p3c ](https://github.com/alibaba/p3c) ：插件。根据编码规范文档来提示代码编写规范
