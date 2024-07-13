@@ -51,6 +51,7 @@
     13. [ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) : 插件汇总中文
     14. [massgravel](https://github.com/massgravel/Microsoft-Activation-Scripts): win激活工具
     15. [Storling](https://github.com/Stirling-Tools/Stirling-PDF)：pdf处理工具，如pdf转图片等
+    16. [umi-OCR]([hiroi-sora/Umi-OCR: OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。 (github.com)](https://github.com/hiroi-sora/Umi-OCR)) : OCR文件识别工具。
   
 
 
