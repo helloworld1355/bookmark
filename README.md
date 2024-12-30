@@ -36,6 +36,7 @@
       3. [shiro](https://github.com/apache/shiro) : springboot的安全权限控制框架，基于springSecurity。
       4. [sureness](https://github.com/dromara/sureness): 基于RBAC的权限框架，性能、使用难度小于shiro和springSecurity。
       5. [drawdb](https://github.com/drawdb-io/drawdb)：拖拽式可视化的数据库生成工具。
+      6. [easyexcel](https://github.com/alibaba/easyexcel)：读写excel的工具。
     - 应用程序：
       1. [JFoenix](https://github.com/sshahine/JFoenix)：基于JavaFX的应用程序组件库。
   
@@ -62,6 +63,7 @@
     18. [etherpad-lite](https://github.com/ether/etherpad-lite): 协同编辑工具，支持拓展。通过拓展可支持更多文档。
     19. [Windrecorder](https://github.com/yuka-friends/Windrecorder?tab=readme-ov-file)：捕风记录仪，通过记录屏幕上所有内容、从而实现记忆搜索的应用。
     20. [penpot](https://github.com/penpot/penpot)：多人协作前端工具
+    21. [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)：日志工具，类似于typore，但快捷键没有其强大。内置ai功能。后续可能会推出共同协作功能，可以自己部署服务端。
   
 
 
